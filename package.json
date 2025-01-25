@@ -1,0 +1,22 @@
+{
+    "name": "berry-fractal",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "vue": "^3.0.0",
+        "vue-router": "^4.0.0",
+        "vuex": "^4.0.0"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "^4.5.0",
+        "@vue/test-utils": "^2.0.0",
+        "eslint": "^7.0.0",
+        "eslint-plugin-vue": "^7.0.0",
+        "prettier": "^2.0.0"
+    }
+}
